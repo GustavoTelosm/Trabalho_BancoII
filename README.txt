@@ -1,5 +1,8 @@
 TRABALHO DE BANCO DE DADOS SEMIESTRUTURADOS
 
+Alunos: Gustavo Henrique Teló, Arthur Couto Mulling
+
+
 Curso: Ciência da Computação
 
 DESCRIÇÃO DO PROJETO:
@@ -37,5 +40,6 @@ COMO EXECUTAR:
    py app.py
    
    (Ou 'python app.py' dependendo da configuração do seu sistema).
+
 
 O resultado será exibido no console, apresentando a tabela integrada com dados do SQL (Nome, Cor, Cidade) e do XML (Quantidade, Valor).
